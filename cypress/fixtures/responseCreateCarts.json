@@ -1,0 +1,14 @@
+{
+    "id": 11,
+    "userId": 120,
+    "products": [
+        {
+            "id": 120,
+            "title": "Test Create Carts",
+            "price": 1500,
+            "description": "Test Create Carts Success",
+            "category": "Test API POST Create Carts Success",
+            "image": "http://example.com"
+        }
+    ]
+}
